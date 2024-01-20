@@ -1,4 +1,4 @@
-# Loan Analysis Project
+# Advanced Multiple Regression Project
  
 This project applies advanced multiple regression analysis on a data set of 1,267 substances with 229 characteristics, including their solubility. The data was divided into two files: the training file comprising 951 substances and the testing file with 316 substances. 
 
